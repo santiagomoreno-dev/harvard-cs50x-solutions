@@ -60,7 +60,8 @@ https://scratch.mit.edu/projects/1351728496/
 ## Screenshots
 <img width="946" height="445" alt="Game" src="https://github.com/user-attachments/assets/71a430da-a86a-4465-9841-9be433b94371" />
 <img width="947" height="446" alt="gameplay2" src="https://github.com/user-attachments/assets/40f959fe-86b3-4ddb-b0ac-3931b2ffe5bd" />
-<img width="947" height="446" alt="gameplay1" src="https://github.com/user-attachments/assets/f4ba9a65-ed88-47d1-aeda-17417dc0e21a" />
+<img width="944" height="439" alt="YA" src="https://github.com/user-attachments/assets/b63c7194-a25c-4056-90cb-410abd06e23f" />
+
 
 
 ## Technologies Used
