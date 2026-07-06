@@ -52,21 +52,13 @@ Used `pick random (-220) to (220)` inside `resetIngredient` to vary the horizont
 **Game not stopping correctly on win/loss**
 Replaced `stop [this script]` with `stop [all]` to freeze every script when a win/loss condition is met.
 
-## How to Play
-
-- Open the project in Scratch.
-- Click the green flag to start.
-- Use left/right arrow keys to move the pan.
-- Catch apples to earn points; avoid frogs, which cost lives.
-- Reach 15 points to win, or lose all 3 lives.
-
 ## Technologies Used
 
-- [Scratch](https://scratch.mit.edu/) — visual block-based programming environment (MIT Media Lab)
-- [CS50x](https://cs50.harvard.edu/x/) — CS50: Introduction to Computer Science (Harvard University)
+- [Scratch](https://scratch.mit.edu/) 
+- [CS50x](https://cs50.harvard.edu/x/) 
 
 ## Author & License
 
-**[Your Name]** — GitHub: [@santiagoamorenom14-cell](https://github.com/santiagoamorenom14-cell) — Course: CS50x, Problem Set 0
+**[Santiago Moreno]** — GitHub: [@santiagoamorenom14-cell](https://github.com/santiagoamorenom14-cell) — Course: CS50x, Problem Set 0
 
 Licensed under the MIT License. See [LICENSE](./LICENSE) for details.
