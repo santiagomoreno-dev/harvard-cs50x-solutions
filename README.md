@@ -19,4 +19,4 @@ This repository documents the practical application of core computer science pri
 
 **Multi-Paradigm Development**: Transitioning foundational logic from C into high-level programming with Python, database queries using SQL, and web development architecture.
 
-Environment & Debugging: Managing compilation workflows, utilizing terminal-based Linux environments, and performing systematic debugging (debug50).
+**Environment & Debugging**: Managing compilation workflows, utilizing terminal-based Linux environments, and performing systematic debugging (debug50).
